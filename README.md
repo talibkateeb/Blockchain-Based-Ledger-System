@@ -6,7 +6,7 @@ A blockchain-based ledger system, complete with a user-friendly web interface. T
 
 ## Watch how it works
 
-![]()
+![](https://github.com/talibkateeb/Blockchain-Based-Ledger-System/blob/main/tutorial.gif)
 
 ---
 
